@@ -1,0 +1,2 @@
+hi this is the second file to started with git  ,
+thank you 
